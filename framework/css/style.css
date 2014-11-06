@@ -1,0 +1,22 @@
+body {
+	font-family: 'Marvel', sans-serif;
+	color: gray;
+}
+.logo{
+	width: 120px;
+	height: 120px;
+}
+.username{
+	font-size: 60px;
+}
+@media only screen and (max-width:360px){
+	.features, .username, .position{
+		text-align: center;
+	}
+	.logo{
+		display:block;
+	  	margin-left: auto;
+  		margin-right: auto;
+	}
+
+}
