@@ -1,2 +1,2 @@
-# portfolio
-portfolio: [http://scottyoon221.github.io/portfolio](http://scottyoon221.github.io/portfolio)
+# Mockup
+mockup: [http://scottyoon221.github.io/mockup](http://scottyoon221.github.io/mockup)
